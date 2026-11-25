@@ -14,7 +14,7 @@
 ![Animated Mario running](https://github.com/Kageetai/mario-background-parallax/raw/refs/heads/master/img/mario.gif)
 
 <p align="center"><em>Move fast. Think low-level. Make every pixel count.</em>
-<sub>Animated visual loaded remotely from GitHub — no image upload required.</sub></p>
+</p>
 
 > **Super Mario Engine** is a retro platform game written in 16-bit x86 Assembly. There is no graphics library, no game engine and no high-level runtime: the screen, sprites, physics, enemies, collisions, menus and timing are all built from low-level procedures.
 
